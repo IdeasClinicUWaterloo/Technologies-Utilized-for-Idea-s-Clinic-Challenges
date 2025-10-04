@@ -43,7 +43,7 @@ For the test codes provided for each sensor, open a blank Arduino IDE tab to cop
    * [Datasheet](https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1081/104030001_Web.pdf)
 * #### Hookup
    * The Grove LCD Display is not compatible with the Arduino R4 and will require pull-up resistors to function correctly. Use a breadboard to set up 4kΩ to 6kΩ  resistors in the configuration shown below.<br>
-   ![Pullup Resistors](Images/Pullup_Resitors.png) <br>
+   ![Pullup Resistors](https://github.com/IdeasClinicUWaterloo/W25_HealthTech_Innovation_Challenge_Guides/blob/main/Dashboard/Images/Pullup_Resitors.png?raw=true) <br>
    * The LCD Display uses I2C ports, so connect the VCC, GND, SDA, and SCL connection to the corresponding ports on the Base Shield.
 * #### Code
    * [LCD Display Test Code](Arduino_Code/Part_Testing/LCD_test/LCD_test.ino?ref_type=heads)
