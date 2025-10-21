@@ -21,7 +21,7 @@ Before you can begin coding, you should configure your Arduino IDE to the specif
 **If you don't know the port ID, go to your "Device Manager" to find the ID under "Ports".
 
 ### Installing Libraries
-The required libraries for each sensor are listed in [Sensor Setup](#4-sensor-setup), use this [Link](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/) for more help installing libraries.
+The required libraries for each sensor are listed in [Sensor Setup](https://github.com/IdeasClinicUWaterloo/Technologies-Utilized-for-Idea-s-Clinic-Challenges/blob/main/sensors/README.md#sensor-setup), use this [Link](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/) for more help installing libraries.
 #### Method 1: Using the Arduino R4
 Search for the Library name in the ‘library manager” in the Arduino IDE and install. <br>
 ![Library Manger](Images/Arduino_Library_Manager.png)
