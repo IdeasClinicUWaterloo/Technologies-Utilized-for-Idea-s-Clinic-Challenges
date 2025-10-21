@@ -19,7 +19,7 @@ For the test codes provided for each sensor, open a blank Arduino IDE tab to cop
 * #### Hookup
    * Using one of the digital ports (D7) on the Base Shield, simply use the provided 4-prong connection wires to directly connect the sensor to the Base Shield, ensuring proper connections are made (GND to GND, VCC to VCC, etc.)
 * #### Code
-   * [Button/Touch Test Code](https://github.com/IdeasClinicUWaterloo/W25_HealthTech_Innovation_Challenge_Guides/tree/main/Dashboard/Arduino_Code/Part_Testing/ButtonAndTouchSensor_test)
+   * [Button/Touch Test Code](https://github.com/IdeasClinicUWaterloo/W25_HealthTech_Innovation_Challenge_Guides/tree/main/Dashboard/Arduino_Code/Part_Testing/ButtonAndTouchSensor_test/ButtonAndTouchSensor_test.ino)
 
 
 ***
@@ -52,7 +52,7 @@ For the test codes provided for each sensor, open a blank Arduino IDE tab to cop
 ### **LEDs** 
 * [Part Link](https://www.digikey.ca/en/products/detail/sparkfun-electronics/COM-15206/10064425?s=N4IgTCBcDaIIwFYBsAOAtAYQPIFk2LAAYk0A5AERAF0BfIA)
 * #### Libraries
-   * [Adafruit_NeoPixel](https://reference.arduino.cc/reference/en/libraries/adafruit-neopixel/) - Also available in Ardiuno IDE Library Manger
+   * [Adafruit_NeoPixel](https://docs.arduino.cc/libraries/adafruit-neopixel/) - Also available in Ardiuno IDE Library Manger
 * #### Documents
    * [Hookup Guide](https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1179/WS2812_Breakout_Hookup_Guide.pdf)
 * #### Hookup
@@ -95,7 +95,7 @@ For the test codes provided for each sensor, open a blank Arduino IDE tab to cop
 ### **Temperature Sensor**
 * [Part Link](https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/101020015/5482612?gclsrc=aw.ds&&utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Product_Low%20ROAS%20Categories&utm_term=&productid=5482612&utm_content=&utm_id=go_cmp-20291741422_adg-_ad-__dev-c_ext-_prd-5482612_sig-Cj0KCQiAs5i8BhDmARIsAGE4xHzTSHPixUNWPe_Sz5zNK9TpqalWp9gAVqcVxikBVv6sWPFyKczcFioaAkwVEALw_wcB&gad_source=1&gclid=Cj0KCQiAs5i8BhDmARIsAGE4xHzTSHPixUNWPe_Sz5zNK9TpqalWp9gAVqcVxikBVv6sWPFyKczcFioaAkwVEALw_wcB&gclsrc=aw.ds)
 * #### Libraries
-   * [DFRobot_MAX30102 Arduino Library ](https://github.com/DFRobot/DFRobot_MAX30102)
+   * [Grover Temperature ad Humidity Sensor Arduino Library](https://docs.arduino.cc/libraries/grove-temperature-and-humidity-sensor/)
 * #### Documents
    * [Datasheet](https://www.mouser.com/datasheet/2/744/Seeed_101020015-1217523.pdf?srsltid=AfmBOorwHlJCEQqf9S8z5mSSTPdVx3PrN5UK1Yeg_4D4VB85bLY0FuRT)
 * #### Hookup
@@ -109,7 +109,7 @@ For the test codes provided for each sensor, open a blank Arduino IDE tab to cop
 * #### Libraries
     * [Grove Digital Light Sensor](https://github.com/Seeed-Studio/Grove_Digital_Light_Sensor)
 * ### Documents
-    * [Datasheet]([https://seeeddoc.github.io/Grove-Light_Sensor/](https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2518/101020173_Web.pdf))
+    * [Datasheet](https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2518/101020173_Web.pdf)
 * ### Hookup
     * Using one of the analog ports (A0) on the Base Shield, simply use the provided 4-prong connection wires to directly connect the sensor to the Base Shield, ensuring proper connections are made (GND to GND, VCC to VCC, etc.)
  * ### Code
