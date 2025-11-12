@@ -26,7 +26,7 @@ For the test codes provided for each sensor, open a blank Arduino IDE tab to cop
 ### **Buzzer**
 * [Part Link](https://wiki.seeedstudio.com/Grove-Buzzer/)
 * #### Libraries
-   * [Servo](https://docs.arduino.cc/libraries/servo/) - Also available in Ardiuno IDE Library Manger
+   * [Servo](https://docs.arduino.cc/libraries/servo/) - Also available in Ardiuno IDE Library Manager
 * #### Documents
    * [Manual](https://www.mouser.com/datasheet/2/744/Seeed_107020000-1217511.pdf)
 * #### Hookup
