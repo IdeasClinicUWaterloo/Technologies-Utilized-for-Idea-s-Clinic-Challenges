@@ -11,7 +11,7 @@ After the SolidWorks download is complete, click "Part" to start building your 3
 
 <img width="553" height="448" alt="image" src="https://github.com/user-attachments/assets/7312206b-1794-4a7f-9c98-1a6396ab571c" />
 
-To learn how to draw in SolidWorks and create a part, you can refer to this great tutorial. Getting acquainted with the various tools will be beneficial. You can disregard the drawing instruction section of the guide as it is not necessary for the purpose of this workshop.
+To learn how to draw in SolidWorks and create a part, you can refer to this <!-- great tutorial --> [beginners guide](https://www.solidxperts.com/en/blog/a-beginners-guide-to-solidworks/). Getting acquainted with the various tools will be beneficial. You can disregard the drawing instruction section of the guide as it is not necessary for the purpose of this workshop.
 ### 2.3.	Exporting Your Print
 Once you are finished with your 3D model, save and export it as an STL (*.stl) file.
  
