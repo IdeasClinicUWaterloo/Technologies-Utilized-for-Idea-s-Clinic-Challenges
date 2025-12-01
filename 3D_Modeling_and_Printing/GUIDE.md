@@ -70,6 +70,7 @@ This overhang rule has an exception in some situations. Short distances can be c
 After you are done adjusting your print settings, you may click the “slice” button, which slices your 3D model into thin, horizontal layers.
 
 When you preview your print, you can view each layer and see how much filament will be used and how long the print is estimated to take.
-<img src="./Images/Screenshot.png" alt="Slicer preview">
 
-Once you are happy with everything, you may export your file to G-code, which the 3D printers can actually understand.
+<img height="300" src="./Images/Screenshot.png" alt="Slicer preview">
+
+Once you are happy with everything, you may export your file to G-code, which the 3D printers can actually understand. Save the file to a USB or SD card, then plug it into the 3D printer.
